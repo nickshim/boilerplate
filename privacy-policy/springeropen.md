@@ -1,4 +1,5 @@
-This is the privacy policy ("policy") for nature.com which is run and provided by AWAITING LEGAL ENTITY (we, us and our). AWAITING LEGAL ENTITY is located at Address.* We can also be contacted at onlineservice@springer.com.
+Privacy policy
+This is the privacy policy ("policy") for springeropen.com which is run and provided by BioMed Central Limited (we, us and our). BioMed Central Limited is located at The Campus, 4 Crinan Street, London N1 9XW*.* We can also be contacted at info@springeropen.com.
 
 We will only use the personal data gathered over this website as set out in this policy. Below you will find information on how we use your personal data, for which purposes your personal data is used, with whom it is shared and what control and information rights you may have.
 
@@ -7,11 +8,12 @@ We publish scholarly journals, books, news and data. Some of this material is fr
 
 When you visit our website for informational reasons without setting up an account, only limited personal data will be processed to provide you with the website itself (see III).
 If you are identified as belonging to a customer organisation then we collect information in order to be able to provide usage reporting to that customer.
-In case you register for one our services or subscribe to our newsletter, further personal data will be processed in the scope of such services (see IV, V and VI).
+In case you register for one our services or subscribe to our article alerts or newsletters, further personal data will be processed in the scope of such services (see IV, V and VI).
 Furthermore, your personal data will be used to provide you with relevant advertising for our services and products (see VIII) and for statistical analysis that helps us to improve our website (see IX). Additionally, we improve your website experience with third party content (see X).
 Your personal data may be disclosed to third parties (see XI) that might be located outside your country of residence; potentially, different data protection standards may apply (see XII).
 We have implemented appropriate safeguards to secure your personal data (see XIII) and retain your personal data only as long as necessary (see XIV).
 Under the legislation applicable to you, you may be entitled to exercise certain rights with regard to the processing of your personal data (see XV).
+
 II. Definitions
 Personal data: means any information relating to a natural person who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, or an online identifier.
 
@@ -34,8 +36,6 @@ If you are identified by IP or equivalent method as belonging to a customer orga
 The personal data automatically collected is necessary for us to provide the website, Article 6 sec. 1 sent. 1 lit. b GDPR, and for our legitimate interest to guarantee the website's stability and security, Article 6 sec. 1 sent. 1 lit. f GDPR.
 
 IV. Registration for our services
-Access to subscription content is provided via a variety of mechanisms such as IP site licenses, login via third party federated identity providers or by an personal account with us. If your access to our content is provided by an organisation or an institution like a university or a company then they choose the access method on your behalf. A personal account is required to purchase content directly from us, or to receive personal services like newsletters and alerts.
-
 If you need to create a personal login with us then we will store and process the following:
 
 Information (such as your name, user name and email address) that is provided by registration
@@ -57,20 +57,22 @@ We use the personal data and contact data you provide by registration to inform 
 
 You can object to the use of your personal data for direct marketing at any time. We will then refrain from any processing to the extent it is related to such purposes. You may opt-out of direct marketing via opt-out links in any marketing communication or via user profile pages on the website (where available). You can also inform us about your objection by contacting our Data Protection Office at dataprotection@springernature.com.
 
-We offer notification services such as table-of-contents or new book alerts. This service is provided by means of a double-opt-in. Thus, you will receive an email containing a link by which you can confirm that you are the owner of the email address and wish to be notified via our email service. You can end this service by opting out via the link provided in each notification email. This notification service is based on your consent, Article 6 sec. 1 sent. 1 lit. a GDPR.
+We offer notification services such as table-of-contents or new article alerts. This service is provided by means of a double-opt-in. Thus, you will receive an email containing a link by which you can confirm that you are the owner of the email address and wish to be notified via our email service. You can end this service by opting out via the link provided in each notification email. This notification service is based on your consent, Article 6 sec. 1 sent. 1 lit. a GDPR.
 
 Registration data is kept until such time as an account deletion request is made. If such a request is received we will erase your data within 30 days. Statutory storage obligations or the need for legal actions that may arise from misconduct within the services or payment problems can lead to a longer retention of your personal data. In this case, we will inform you accordingly.
 
-III. Information about the specific uses that require registration
-Web shop
-For the use of our web shop you have to set up an account as described under IV. Your customer account retains your personal data for future purchases. You can delete the personal data as well as the account in your account's settings. This processing is based on Article 6 sec. 1 sent. 1 lit. b.
+V. Information about the specific uses that require registration
+Blogs
+You can publicly comment on our blogs where we post a variety of articles to inform you about our activities. When posting a comment your name or user name will be made public. To be able to comment on our blogs you will have to register as described in IV.
 
-By statutory law we are required to retain the provided financial data in relation to transactions (including address, payment and order information) for ten years. However, after 2 years we will restrict the processing of your personal data to comply with the statutory requirements and will not process the personal data any further. Regarding this, the retention of your personal data is based on Article 6 sec. 1 sent. 1 lit. c GDPR.
+In addition to the extent of processing described under IV, when you post a comment we will retain some of your personal data such as your IP address and name and other metadata such as time of posting. This is necessary to defend ourselves from possible liability claims that may arise from unlawful comments posted by you and reflects our legitimate interest with regard to the legal justification of this processing activity in Article 6 sec. 1 sent. 1 lit. f GDPR.
 
-V. Newsletter
-With your email address you can subscribe to our newsletter that provides you with the latest news about our products and services if you consent to receiving such newsletters. The legal basis for this processing is Article 6 sec. 1 sent. 1 lit. a GDPR. Your email address will be retained as long as you subscribe to our newsletter.
+We reserve the right to delete comments that are off-topic, spam, abusive, use excessive foul language, include ad hominem attacks or offend against legal regulations.
 
-This service is provided by means of a double-opt-in. Thus, you will receive an email containing a link by which you can confirm that you are the owner of the email address and wish to be notified via our email service. When your subscription is not confirmed within 96 hours after the confirmation mail has been requested, the personal data you provided will not be processed for any purpose and it will be automatically erased.
+Article Alerts and Newsletters
+With your email address you can subscribe to article alerts and newsletters that provides you with the latest news about our products and services if you consent to receiving such alerts and newsletters. The legal basis for this processing is Article 6 sec. 1 sent. 1 lit. a GDPR. Your email address will be retained as long as you subscribe to our alerts and newsletters.
+
+This service is provided by means of a double-opt-in. Thus, you will receive an email containing a link by which you can confirm that you are the owner of the email address and wish to be notified via our email service. When your subscription is not confirmed, the personal data you provided will not be processed for any purpose.
 
 You can unsubscribe from this service by opting out via the link provided in each newsletter.
 
@@ -90,7 +92,7 @@ Further information about the processing of your personal data in the provider's
 
 VIII. Analytics
 
-For statistical analyses we use web analytics services such as Google Analytics, Webtrekk, and Webtrends to collect information about the use of this site.
+For statistical analyses we use web analytics services such as Google Analytics to collect information about the use of this site.
 
 General tracking information
 
@@ -116,44 +118,11 @@ We have activated the IP-anonymisation within the Google Analytics service, and 
 
 You may refuse the use of cookies by selecting the appropriate settings on your browser; however please note that if you do this you may not be able to use the full functionality of this website. In addition to that you may prevent the collection of the information generated by the cookie about your use of the website (including you IP address) and the processing of this data by Google if you download and install the browser plug-in available at the following link: [http://tools.google.com/dlpage/gaoptout]](http://tools.google.com/dlpage/gaoptout)
 
-Webtrekk
-
-We use Webtrekk, a web analytics service provided by Webtrekk GmbH, Robert-Koch-Platz 4, D-10115 Berlin ("Webtrekk"). We use Webtrekkservices to collect and use statistical data on the use of our website to optimise our offering. In addition to cookies, Webtrekk also uses pixels (small gif files incorporated into the website).
-
-Webtrekk places the following types of cookies on your computer:
-
-last click (used for session timeout; lasts one session)
-"session cookie" (used for session identification; lasts one session)
-The following information is collected through the use of pixels:
-
-request (file name of the requested file)
-browser type/version (e.g. Internet Explorer 9.0)
-browser language (e.g. German)
-the operating system used (e.g. Windows 7)
-JavaScript enabled
-Java on/off
-cookies on/off
-the referrer URL
-IP address (will be anonymised immediately and deleted after processing)
-the time you access the site
-clicks
-product parameters (e.g. the ID of the product/subscription
-authorising you to access the site)
-This allows us to organise content into categories like "most read", thereby making the website more comfortable to use. Moreover, the statistical information obtained about browser types and operating systems allows us to optimise our web design.
-
-Webtrekk stores IP addresses only anonymously (in shortened form) and uses them only for session identification and geo-localisation. After that, IP addresses are immediately deleted. The information collected through Webtrekk will not be used to identify you personally unless you have specifically given us your consent.
-
-You may object at any time to the collection of the data referred to above, and opt out of any future processing of such data by Webtrekk, by placing the opt-out cookie available at http://www.webtrekk.com/index/datenschutzerklaerung/opt-out.html
-
-You will then continue to be excluded from web tracking until the cookie is deleted. The cookie is set for the named domain, per browser and computer. Therefore, if you visit our website, for instance, from home and from work or using different browsers, you have to place the cookie for each computer and browser separately.
-
-For more information about privacy policies and Webtrekk, please refer to the Webtrekk website: https://www.webtrekk.com/de/warum-webtrekk/datenschutz
-
-VIII. Third party content and social media plug-ins
+IX. Third party content and social media plug-ins
 Links to third party websites
 This website may contain links to third party websites. We are not responsible for the content and the data collection on respective third party websites; please check the privacy policy of respective websites for information of respective websites' data processing activities.
 
-IX. Information sharing
+X. Information sharing
 Where personal data is disclosed to the following third parties for the purposes mentioned above the legal basis for the transfer of your personal data is Article 6 sec. 1 sent. 1 lit. b and f GDPR. Some of the recipients may reside outside the EEA. For further information about cross border transfer in general and transfers outside of the EEA see XII.
 
 We may disclose anonymous aggregate statistics about users of the website in order to describe our services to prospective partners, advertisers and other reputable third parties and for other lawful purposes, but these statistics will include no personal data.
@@ -164,20 +133,20 @@ In the event that we undergo re-organisation or are sold to a third party, any p
 
 We may disclose your personal data if legally entitled or required to do so (for example if required by law or by a court order).
 
-X. Cross border data transfers
+XI. Cross border data transfers
 Within the scope of our information sharing activities set out above, your personal data may be transferred to other countries (including countries outside the EEA) which may have different data protection standards from your country of residence. Please note that data processed in a foreign country may be subject to foreign laws and accessible to foreign governments, courts, law enforcement, and regulatory agencies. However, we will endeavour to take reasonable measures to maintain an adequate level of data protection when sharing your personal data with such countries.
 
 In the case of a transfer outside of the EEA, this transfer is safeguarded by privacy the Privacy Shield and EU Model Clauses. You can find further information about the aforementioned safeguards by contacting our Data Protection Officer at dataprotection@springernature.com
 
-XI. Security
+XII. Security
 We have reasonable state of the art security measures in place to protect against the loss, misuse and alteration of personal data under our control. For example, our security and privacy policies are periodically reviewed and enhanced as necessary and only authorised personnel have access to personal data. Whilst we cannot ensure or guarantee that loss, misuse or alteration of information will never occur, we use all reasonable efforts to prevent it.
 
 You should bear in mind that submission of information over the internet is never entirely secure. We cannot guarantee the security of information you submit via our website whilst it is in transit over the internet and any such submission is at your own risk.
 
-XII. Data retention
+XIII. Data retention
 We strive to keep our processing activities with respect to your personal data as limited as possible. In the absence of specific retention periods set out in this policy, your personal data will be retained only for as long as we need it to fulfil the purpose for which we have collected it and, if applicable, as long as required by statutory retention requirements.
 
-XIII. Your rights
+XIV. Your rights
 Under the legislation applicable to you, you may be entitled to exercise some or all of the following rights:
 
 require (i) information as to whether your personal data is retained and (ii) access to and/or duplicates of your personal data retained, including the purposes of the processing, the categories of personal data concerned, and the data recipients as well as potential retention period;
@@ -196,10 +165,10 @@ not to be subject to any automated decision making, including profiling (automat
 
 You may (i) exercise the rights referred to above or (ii) pose any questions or (iii) make any complaints regarding our data processing by contacting us using the contact details set out below.
 
-XIV. Contacting us
+XV. Contacting us
 Please submit any questions, concerns or comments you have about this privacy policy or any requests concerning your personal data by email to our Group Data Protection Officer. You can contact our Group Data Protection Officer via dataprotection@springernature.com
 
 The information you provide when contacting us at dataprotection@springernature.com will be processed to handle your request and will be erased when your request is completed. Alternatively, we will restrict the processing of the respective information in accordance with statutory retention requirements.
 
-XV. Amendments to this policy
+XVIå. Amendments to this policy
 We reserve the right to change this policy from time to time by updating our website respectively. Please visit the website regularly and check our respective current privacy policy. This policy was last updated on 16/05/2018.

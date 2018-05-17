@@ -312,7 +312,7 @@ In the event that we undergo re-organisation or are sold to a third party, any p
 
 We may disclose your personal data if legally entitled or required to do so (for example if required by law or by a court order).
 
-X.  Cross border data transfers
+## X.  Cross border data transfers
 
 Within the scope of our information sharing activities set out above,
 your personal data may be transferred to other countries (including
@@ -329,7 +329,7 @@ safeguarded by privacy the Privacy Shield and EU Model Clauses. You
 can find further information about the aforementioned safeguards by
 contacting our Data Protection Officer at dataprotection@springernature.com
 
-XI. Security
+## XI. Security
 
 We have reasonable state of the art security measures in place to
 protect against the loss, misuse and alteration of personal data under
@@ -344,7 +344,7 @@ internet is never entirely secure. We cannot guarantee the security of
 information you submit via our website whilst it is in transit over
 the internet and any such submission is at your own risk.
 
-XII. Data retention
+## XII. Data retention
 
 We strive to keep our processing activities with respect to your
 personal data as limited as possible. In the absence of specific
@@ -353,7 +353,7 @@ retained only for as long as we need it to fulfil the purpose for
 which we have collected it and, if applicable, as long as required by
 statutory retention requirements.
 
-XIII. Your rights
+## XIII. Your rights
 
 Under the legislation applicable to you, you may be entitled to exercise some or all of the following rights:
 

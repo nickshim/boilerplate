@@ -399,7 +399,7 @@ You may (i) exercise the rights referred to above or (ii) pose any
 questions or (iii) make any complaints regarding our data processing
 by contacting us using the contact details set out below.
 
-XIV. Contacting us
+## XIV. Contacting us
 
 Please submit any questions, concerns or comments you have about this
 privacy policy or any requests concerning your personal data by email
@@ -408,6 +408,6 @@ Protection Officer via dataprotection@springernature.com
 
 The information you provide when contacting us at dataprotection\@springernature.com will be processed to handle your request and will be erased when your request is completed. Alternatively, we will restrict the processing of the respective information in accordance with statutory retention requirements.
 
-XV. Amendments to this policy
+## XV. Amendments to this policy
 
 We reserve the right to change this policy from time to time by updating our website respectively. Please visit the website regularly and check our respective current privacy policy. This policy was last updated on 16/05/2018.

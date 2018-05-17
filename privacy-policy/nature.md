@@ -106,7 +106,7 @@ We reserve the right to delete comments that are off-topic, spam,
 abusive, use excessive foul language, include ad hominem attacks or
 offend against legal regulations.
 
-Web shop
+### Web shop
 
 For the use of our web shop you have to set up an account as described
 under IV. Your customer account retains your personal data for future
@@ -122,7 +122,7 @@ requirements and will not process the personal data any further.
 Regarding this, the retention of your personal data is based on Article
 6 sec. 1 sent. 1 lit. c GDPR.
 
-IV. Newsletter
+## IV. Newsletter
 
 With your email address you can subscribe to our newsletter that
 provides you with the latest news about our products and services if you
@@ -141,50 +141,45 @@ erased.
 You can unsubscribe from this service by opting out via the link
 provided in each newsletter.
 
-V.  Automated decision making
+## V. Automated decision making
 
-> We do not use your personal data for automated decision making which
-> produces legal effects concerning you or similarly significantly
-> affects you, however we do use your personal data to offer you content
-> and services which we believe may be of interest.
+We do not use your personal data for automated decision making which
+produces legal effects concerning you or similarly significantly
+affects you, however we do use your personal data to offer you content
+and services which we believe may be of interest.
 
-VI. Online advertising
+## VI. Online advertising
 
-> We present online advertising provided using the services of *Google
-> AdExchange*, *Google AdSense*, *Sovrn OnScroll*. Respective
-> advertisement is labelled as"ADVERTISEMENT" or "AdChoices". In order
-> to do so, we collect statistical information about you that will be
-> processed by *Salesforce DMP*, *Oracle MOAT*, *Google Analytics*,
-> *Google DFP*, *Google AdExchange*, *Google AdSense,* *Sovrn OnScroll*.
->  This processing is based on Article 6 sec. 1 sent. 1 lit. f GDPR and
-> represents our legitimate interest to improve your website experience
-> and to promote our products and services. The above providers will be
-> automatically informed about your visit on our website. For such
-> purpose, a web beacon is used to place a cookie on your computer.
->
-> Please note that we neither have the control of the extent of personal
-> data that is collected by the respective plug-in provider nor do we
-> know the processing's purpose or the period your personal data will be
-> retained. *Your personal data may be transferred to and processed in
-> countries outside the EU For further information about the potential
-> risks of a cross border data transfer refer to **XII. ***
->
-> It is possible that the above providers may disclose your personal
-> data to its business partners, third parties or authorities.
->
-> You can prevent the installation of such a cookie *(i) by a respective
-> setting of your browser that blocks the installation of third party
-> cookies, (ii) by deactivating the interest-related advertising under
-> http://www.google.de/ads/preferences, (iii) generally blocking cookies
-> under*
-> [*http://www.google.com/settings/ads/plugin*](http://www.google.com/settings/ads/plugin)\]
-> or (iv) by deselecting the option for tracking cookies via the
-> Springer Nature cookie preference centre.
->
-> Further information about the processing of your personal data in the
-> provider's course of operation is provided by its privacy policy.
-> Moreover, you will be provided with further information with regard to
-> your rights and settings concerning privacy.
+We present online advertising provided using the services of *Google
+AdExchange*, *Google AdSense*, *Sovrn OnScroll*. Respective
+advertisement is labelled as"ADVERTISEMENT" or "AdChoices". In order
+to do so, we collect statistical information about you that will be
+processed by *Salesforce DMP*, *Oracle MOAT*, *Google Analytics*,
+*Google DFP*, *Google AdExchange*, *Google AdSense,* *Sovrn OnScroll*.
+This processing is based on Article 6 sec. 1 sent. 1 lit. f GDPR and
+represents our legitimate interest to improve your website experience
+and to promote our products and services. The above providers will be
+automatically informed about your visit on our website. For such
+purpose, a web beacon is used to place a cookie on your computer.
+
+Please note that we neither have the control of the extent of personal
+data that is collected by the respective plug-in provider nor do we
+know the processing's purpose or the period your personal data will be
+retained. *Your personal data may be transferred to and processed in
+countries outside the EU For further information about the potential
+risks of a cross border data transfer refer to **XII.**
+
+It is possible that the above providers may disclose your personal
+data to its business partners, third parties or authorities.
+
+You can prevent the installation of such a cookie (i) by a respective
+setting of your browser that blocks the installation of third party
+cookies, (ii) by deactivating the interest-related advertising under
+[http://www.google.de/ads/preferences](http://www.google.de/ads/preferences), (iii) generally blocking cookies
+under [http://www.google.com/settings/ads/plugin](http://www.google.com/settings/ads/plugin)
+or (iv) by deselecting the option for tracking cookies via the  Springer Nature cookie preference centre.
+
+Further information about the processing of your personal data in the provider's course of operation is provided by its privacy policy. Moreover, you will be provided with further information with regard to  your rights and settings concerning privacy.
 
 VII. Analytics
 

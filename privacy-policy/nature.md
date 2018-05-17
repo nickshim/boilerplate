@@ -280,11 +280,11 @@ For more information about privacy policies and Webtrends, please refer to the W
 
 ### Links to third party websites
 
-> This website may contain links to third party websites. We are not
-> responsible for the content and the data collection on respective
-> third party websites; please check the privacy policy of respective
-> websites for information of respective websites' data processing
-> activities.
+This website may contain links to third party websites. We are not
+responsible for the content and the data collection on respective
+third party websites; please check the privacy policy of respective
+websites for information of respective websites' data processing
+activities.
 
 ## IX. Information sharing
 

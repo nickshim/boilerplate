@@ -1,4 +1,4 @@
-**Privacy policy**
+# Privacy policy
 
 This is the privacy policy ("policy") for *nature.com* which is run and
 provided by Macmillan Publishers Limited (**we**, **us** and **our**).
@@ -10,7 +10,7 @@ in this policy. Below you will find information on how we use your
 personal data, for which purposes your personal data is used, with whom
 it is shared and what control and information rights you may have.
 
-I.  Summary of our processing activities
+## I. Summary of our processing activities
 
 We publish scholarly journals, books, news and data. Some of this
 material is freely available, some of it is only available to
@@ -18,174 +18,76 @@ subscribers. The following summary offers a quick overview of the data
 processing activities that are undertaken on our website. You will find
 more detailed information under the indicated sections below.
 
--   When you visit our website for informational reasons without setting
-    up an account, only limited personal data will be processed to
-    provide you with the website itself (see III).
+* When you visit our website for informational reasons without setting up an account, only limited personal data will be processed to provide you with the website itself (see III).
+* If you are identified as belonging to a customer organisation then we collect information in order to be able to provide usage reporting to that customer.
+* In case you register for one our services or subscribe to our newsletter, further personal data will be processed in the scope of such services (see IV, V and VI).
+* Furthermore, your personal data will be used to provide you with relevant advertising for our services and products (see VIII) and for statistical analysis that helps us to improve our website (see IX). Additionally, we improve your website experience with third party content (see X).
+* Your personal data may be disclosed to third parties (see XI) that might be located outside your country of residence; potentially, different data protection standards may apply (see XII).
+* We have implemented appropriate safeguards to secure your personal data (see XIII) and retain your personal data only as long as necessary (see XIV).
+* Under the legislation applicable to you, you may be entitled to exercise certain rights with regard to the processing of your personal data (see XV).
 
--   If you are identified as belonging to a customer organisation then
-    we collect information in order to be able to provide usage
-    reporting to that customer.
+## II. Definitions
 
--   In case you register for one our services or subscribe to our
-    newsletter, further personal data will be processed in the scope of
-    such services (see IV, V and VI).
+**Personal data:** means any information relating to a natural person who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, or an online identifier.
 
--   Furthermore, your personal data will be used to provide you with
-    relevant advertising for our services and products (see VIII) and
-    for statistical analysis that helps us to improve our website (see
-    IX). Additionally, we improve your website experience with third
-    party content (see X).
+**Processing:** means any operation which is performed on personal data, such as collection, recording, organisation, structuring,storage, adaptation or any kind of disclosure or other use.
 
--   Your personal data may be disclosed to third parties (see XI) that
-    might be located outside your country of residence; potentially,
-    different data protection standards may apply (see XII).
+## I. Informational use of the website
 
--   We have implemented appropriate safeguards to secure your personal
-    data (see XIII) and retain your personal data only as long as
-    necessary (see XIV).
+When you visit our website for informational reasons, i.e. without registering for any of our provided services listed under IV and without providing us with personal data in any other form, we may automatically collect additional information about you which will contain personal data only in limited cases and which is automatically
+recognised by our server, such as:
 
--   Under the legislation applicable to you, you may be entitled to
-    exercise certain rights with regard to the processing of your
-    personal data (see XV).
 
-    II. Definitions
+* your IP address
+* your device type, name and IDs
+* the date and time of your requests
+* the content of your requests
+* information on your browser version
+* your screen resolution
+* information on your operating system, including language settings.*
 
-<!-- -->
+We use such information only to assist us in providing an effective service (e.g. to adapt our website to the needs of your device or to allow you to log in to our website), and to collect broad demographic information for anonymised, aggregated use.
 
--   **Personal data:** means any information relating to a natural
-    person who can be identified, directly or indirectly, in particular
-    by reference to an identifier such as a name, an identification
-    number, location data, or an online identifier.
+If you are identified by IP or equivalent method as belonging to a customer organisation such as university or a company then we will also collect the identity of that organisation and use it to create usage reports which show the organisation how much of the content we publish is being read by their students, members or employees. This information does not contain anything related to a personal login unless (a) you are a nominated administrator for that organisation or (b) your organisation specifically requires it as a part of a usage-based access contract.
 
--   **Processing:** means any operation which is performed on personal
-    data, such as collection, recording, organisation, structuring,
-    storage, adaptation or any kind of disclosure or other use.
+The personal data automatically collected is necessary for us to provide the website, Article 6 sec. 1 sent. 1 lit. b GDPR, and for our legitimate interest to guarantee the website's stability and security, Article 6 sec. 1 sent. 1 lit. f GDPR.
 
-    I.  Informational use of the website
+## II. Registration for our services
 
-> When you visit our website for informational reasons, i.e. without
-> registering for any of our provided services listed under IV and
-> without providing us with personal data in any other form, we may
-> automatically collect additional information about you which will
-> contain personal data only in limited cases and which is automatically
-> recognised by our server, such as:
+Access to subscription content is provided via a variety of mechanisms such as IP site licenses, login via third party federated identity providers or by an personal account with us. If your access to our content is provided by an organisation or an institution like a university or a company then they choose the access method on your
+behalf. A personal account is required to purchase content directly from us, or to receive personal services like newsletters and alerts.
 
-*Examples might include:*
+If you need to create a personal login with us then we will store and process the following:
 
-> *- your IP address;*
->
-> *- your device type, name and IDs;*
->
-> *- the date and time of your requests;*
->
-> *- the content of your requests;*
->
-> *- information on your browser version;*
->
-> *- your screen resolution;*
->
-> *- information on your operating system, including language settings.*
->
-> We use such information only to assist us in providing an effective
-> service (e.g. to adapt our website to the needs of your device or to
-> allow you to log in to our website), and to collect broad demographic
-> information for anonymised, aggregated use.
-
-If you are identified by IP or equivalent method as belonging to a
-customer organisation such as university or a company then we will also
-collect the identity of that organisation and use it to create usage
-reports which show the organisation how much of the content we publish
-is being read by their students, members or employees. This information
-does not contain anything related to a personal login unless (a) you are
-a nominated administrator for that organisation or (b) your organisation
-specifically requires it as a part of a usage-based access contract.
-
-> The personal data automatically collected is necessary for us to
-> provide the website, Article 6 sec. 1 sent. 1 lit. b GDPR, and for our
-> legitimate interest to guarantee the website's stability and security,
-> Article 6 sec. 1 sent. 1 lit. f GDPR.
-
-II. Registration for our services
-
-Access to subscription content is provided via a variety of mechanisms
-such as IP site licenses, login via third party federated identity
-providers or by an personal account with us. If your access to our
-content is provided by an organisation or an institution like a
-university or a company then they choose the access method on your
-behalf. A personal account is required to purchase content directly from
-us, or to receive personal services like newsletters and alerts.
-
-If you need to create a personal login with us then we will store and
-process the following:
-
-> *- Information (such as your name, user name and email address) that
-> is provided by registration; *
->
-> *- Information in connection with an account sign-in facility (e.g.
-> log-in and password details);*
->
-> *- Communications sent by you (e.g. via e-mail or website
-> communication forms).*
->
-> The information that is necessary for the performance of the service
-> is labelled accordingly. All further information is provided
-> voluntarily.
+* Information (such as your name, user name and email address) that is provided by registration
+* Information in connection with an account sign-in facility (e.g. log-in and password details)
+* Communications sent by you (e.g. via e-mail or website communication forms)
+* The information that is necessary for the performance of the service
+* is labelled accordingly. All further information is provided voluntarily.
 
 We will process the personal data you provide to:
 
-> *Examples might include:*
->
-> *- Identify you at sign-in;*
->
-> *- Provide you with the services and information offered through the
-> website or which you request; *
->
-> *- Administer your account;*
->
-> *- Communicate with you;*
->
-> *- (behavioural) Advertising and profiling*
->
-> *- Provide access (where appropriate) to other Springer Nature group
-> content if you so request*
->
-> For this, the legal basis is Article 6 sec. 1 sent. 1 lit. b GDPR. The
-> use of your personal data for behavioural advertising and profiling is
-> done for the legitimate interest to improve your experience while
-> using the website, Article 6 sec. 1 sent. 1 lit. f GDPR.\]
+* Identify you at sign-in
+* Provide you with the services and information offered through the website or which you request
+* Administer your account
+* Communicate with you
+* Behavioural Advertising and profiling
+* Provide access (where appropriate) to other Springer Nature group content if you so request
 
-We use the personal data and contact data you provide by registration to
-inform you directly about our additional products and services. The use
-of your personal data for directly advertising related products and
-services is a legitimate interest for us as a provider of this website,
-Article 6 sec. 1 sent. 1 lit. f GDPR.
+For this, the legal basis is Article 6 sec. 1 sent. 1 lit. b GDPR. The use of your personal data for behavioural advertising and profiling is done for the legitimate interest to improve your experience while using the website, Article 6 sec. 1 sent. 1 lit. f GDPR.\]
 
-[You can object to the use of your personal data for direct marketing at
-any time. We will then refrain from any processing to the extent it is
-related to such purposes. You may opt-out of direct marketing via
-opt-out links in any marketing communication or via user profile pages
-on the website (where available). You can also inform us about your
-objection by contacting our Data Protection Office at]{.underline}
-<dataprotection@springernature.com>[. ]{.underline}
+We use the personal data and contact data you provide by registration to inform you directly about our additional products and services. The use of your personal data for directly advertising related products and
+services is a legitimate interest for us as a provider of this website, Article 6 sec. 1 sent. 1 lit. f GDPR.
 
-> We offer notification services such as table-of-contents or new book
-> alerts. This service is provided by means of a double-opt-in. Thus,
-> you will receive an email containing a link by which you can confirm
-> that you are the owner of the email address and wish to be notified
-> via our email service. You can end this service by opting out via the
-> link provided in each notification email. This notification service is
-> based on your consent, Article 6 sec. 1 sent. 1 lit. a GDPR.
->
-> Registration data is kept until such time as an account deletion
-> request is made. If such a request is received we will erase your data
-> within 30 days. Statutory storage obligations or the need for legal
-> actions that may arise from misconduct within the services or payment
-> problems can lead to a longer retention of your personal data. In this
-> case, we will inform you accordingly.
+You can object to the use of your personal data for direct marketing at any time. We will then refrain from any processing to the extent it is related to such purposes. You may opt-out of direct marketing via opt-out links in any marketing communication or via user profile pages on the website (where available). You can also inform us about your objection by contacting our Data Protection Office at dataprotection@springernature.com. 
 
-III. Information about the specific uses that require registration
+We offer notification services such as table-of-contents or new book alerts. This service is provided by means of a double-opt-in. Thus, you will receive an email containing a link by which you can confirm that you are the owner of the email address and wish to be notified via our email service. You can end this service by opting out via the link provided in each notification email. This notification service is based on your consent, Article 6 sec. 1 sent. 1 lit. a GDPR.
 
-    Blog
+Registration data is kept until such time as an account deletion request is made. If such a request is received we will erase your data within 30 days. Statutory storage obligations or the need for legal actions that may arise from misconduct within the services or payment problems can lead to a longer retention of your personal data. In this case, we will inform you accordingly.
+
+## III. Information about the specific uses that require registration
+
+### Blog
 
 You can publicly comment on our blog where we post a variety of articles
 to inform you about our activities. When posting a comment your name or

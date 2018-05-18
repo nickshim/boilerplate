@@ -86,7 +86,7 @@ Please note that we neither have the control of the extent of personal data that
 
 It is possible that the above providers may disclose your personal data to its business partners, third parties or authorities.
 
-You can prevent the installation of such a cookie (i) by a respective setting of your browser that blocks the installation of third party cookies, (ii) by deactivating the interest-related advertising under http://www.google.de/ads/preferences, (iii) generally blocking cookies under http://www.google.com/settings/ads/plugin or (iv) by deselecting the option for tracking cookies via the Springer Nature cookie preference centre.
+You can prevent the installation of such a cookie (i) by a respective setting of your browser that blocks the installation of third party cookies, (ii) by deactivating the interest-related advertising under http://www.google.com/ads/preferences, (iii) generally blocking cookies under http://www.google.com/settings/ads/plugin or (iv) by deselecting the option for tracking cookies via the Springer Nature cookie preference centre.
 
 Further information about the processing of your personal data in the provider's course of operation is provided by its privacy policy. Moreover, you will be provided with further information with regard to your rights and settings concerning privacy.
 
